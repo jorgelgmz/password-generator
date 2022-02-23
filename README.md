@@ -6,6 +6,8 @@
 
 ## Usage
 
+<img src="img/password-generator.gif" alt="Password Generator Gif" Title="Password Generator" />
+
 - Open command prompt/terminal
 - Run Node.js script
 
